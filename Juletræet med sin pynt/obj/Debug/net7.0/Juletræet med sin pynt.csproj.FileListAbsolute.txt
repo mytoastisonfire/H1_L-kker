@@ -1,0 +1,14 @@
+C:\Users\zbc23matlc\Desktop\Skole\H1\Løkker\Juletræet med sin pynt\bin\Debug\net7.0\Juletræet med sin pynt.exe
+C:\Users\zbc23matlc\Desktop\Skole\H1\Løkker\Juletræet med sin pynt\bin\Debug\net7.0\Juletræet med sin pynt.deps.json
+C:\Users\zbc23matlc\Desktop\Skole\H1\Løkker\Juletræet med sin pynt\bin\Debug\net7.0\Juletræet med sin pynt.runtimeconfig.json
+C:\Users\zbc23matlc\Desktop\Skole\H1\Løkker\Juletræet med sin pynt\bin\Debug\net7.0\Juletræet med sin pynt.dll
+C:\Users\zbc23matlc\Desktop\Skole\H1\Løkker\Juletræet med sin pynt\bin\Debug\net7.0\Juletræet med sin pynt.pdb
+C:\Users\zbc23matlc\Desktop\Skole\H1\Løkker\Juletræet med sin pynt\obj\Debug\net7.0\Juletræet med sin pynt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbc23matlc\Desktop\Skole\H1\Løkker\Juletræet med sin pynt\obj\Debug\net7.0\Juletræet med sin pynt.AssemblyInfoInputs.cache
+C:\Users\zbc23matlc\Desktop\Skole\H1\Løkker\Juletræet med sin pynt\obj\Debug\net7.0\Juletræet med sin pynt.AssemblyInfo.cs
+C:\Users\zbc23matlc\Desktop\Skole\H1\Løkker\Juletræet med sin pynt\obj\Debug\net7.0\Juletræet med sin pynt.csproj.CoreCompileInputs.cache
+C:\Users\zbc23matlc\Desktop\Skole\H1\Løkker\Juletræet med sin pynt\obj\Debug\net7.0\Juletræet med sin pynt.dll
+C:\Users\zbc23matlc\Desktop\Skole\H1\Løkker\Juletræet med sin pynt\obj\Debug\net7.0\refint\Juletræet med sin pynt.dll
+C:\Users\zbc23matlc\Desktop\Skole\H1\Løkker\Juletræet med sin pynt\obj\Debug\net7.0\Juletræet med sin pynt.pdb
+C:\Users\zbc23matlc\Desktop\Skole\H1\Løkker\Juletræet med sin pynt\obj\Debug\net7.0\Juletræet med sin pynt.genruntimeconfig.cache
+C:\Users\zbc23matlc\Desktop\Skole\H1\Løkker\Juletræet med sin pynt\obj\Debug\net7.0\ref\Juletræet med sin pynt.dll
